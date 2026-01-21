@@ -76,7 +76,7 @@ if(miEdad >= 18)
     }   
     else
     {
-        esMayordeEdad= false;
+        esMayordeEdad = false;
         esMenordeEdad = true;
     }
 
